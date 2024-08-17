@@ -767,7 +767,7 @@ Banner Style
   background-position: right bottom;
   background-repeat: no-repeat;
   background-size: cover;
-  padding: 170px 0px 120px 0px;
+  padding: 150px 0px 50px 0px;
 }
 
 .main-banner .item-1 {
@@ -803,12 +803,13 @@ Banner Style
 }
 
 .main-banner .item h2 {
-  font-size: 48px;
+  font-size: 40px;
   font-weight: 700;
   color: #fff;
-  line-height: 70px;
-  width: 60%;
-  margin-bottom: 40px;
+  line-height: 50px;
+  width: 65%;
+  margin-bottom: 20px;
+  margin-top: 10px;
 }
 
 .main-banner .item p {
@@ -818,7 +819,7 @@ Banner Style
 
 .main-banner .item .buttons {
   display: flex;
-  margin-top: 50px;
+  margin-top: 30px;
 }
 
 .main-banner .item .buttons .main-button {
@@ -898,8 +899,8 @@ main-course Style
 
 .main-course {
   position: relative;
-  padding: 80px 0;
-  margin-top: 150px;
+  /* padding: 80px 0;
+  margin-top: 150px; */
 }
 
 .main-course:before {
@@ -1127,9 +1128,9 @@ Courses Style
 --------------------------------------------- 
 */
 
-.courses {
+/* .courses {
   margin-top: 160px;
-}
+} */
 
 .event_filter {
   text-align: center;
@@ -1223,7 +1224,7 @@ Courses Style
 }
 
 .events_item .down-content {
-  padding: 20px 30px 25px 30px;
+  padding: 20px 30px 25px 20px;
 }
 
 .events_item .down-content span.author {
@@ -1234,7 +1235,7 @@ Courses Style
 }
 
 .events_item .down-content h4 {
-  font-size: 22px;
+  font-size: 18px;
   font-weight: 600;
   transition: all .3s;
 }
@@ -1985,7 +1986,7 @@ body {
   }
 
   .services {
-    margin-top: 80px;
+    margin-top: 0px;
   }
 
   .about-us {
@@ -2029,7 +2030,7 @@ body {
   }
 
   .courses {
-    margin-top: 100px;
+    margin-top: 20px;
   }
 
   .event_filter ul li {
@@ -2046,7 +2047,7 @@ body {
   }
 
   .team {
-    margin-top: 160px;
+    margin-top: 0px;
   }
 
   .team-member {
@@ -2174,3 +2175,5 @@ body {
     width: 95%;
   }
 }
+
+/* CHANGES BY SHADAB */
